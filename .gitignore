@@ -1,0 +1,110 @@
+# macOS系统文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Python缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# 虚拟环境
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE和编辑器文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 测试和覆盖率文件
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# 日志文件
+*.log
+
+# 本地配置文件
+.env.local
+.env.*.local
+
+# 临时文件和目录
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Word转GitBook工具生成的文件
+gitbook_output/
+*_output/
+*.docx
+temp_images/
+temp_test_images/
+test_*.docx
+duplicate_*.docx
+sample_*.docx
+
+# GitBook相关文件
+_book/
+node_modules/
+package-lock.json
+yarn.lock
+
+# 图片缓存
+assets/
+images/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.svg
+
+# 其他常见缓存目录
+.cache/
+cache/
+.npm/
+.yarn/
